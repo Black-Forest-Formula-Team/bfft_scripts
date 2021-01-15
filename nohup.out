@@ -1,0 +1,1929 @@
+Starting ROS Core and launch file for Data collection!
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1    AN2     AN3  AN4
+0  0.0015  0.014  0.0015  0.0
+      AN1    AN2     AN3  AN4
+0  0.0015  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0145  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0145  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1    AN2     AN3  AN4
+0  0.0015  0.014  0.0015  0.0
+      AN1    AN2     AN3  AN4
+0  0.0015  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0005  0.0[0m[ INFO] [1610722118.306762034]: Successfully connected to can0.[0m
+
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0005  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2     AN3  AN4
+0  0.001  0.0145  0.0015  0.0
+     AN1     AN2     AN3  AN4
+0  0.001  0.0145  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+... logging to /home/bfft-agx-1/.ros/log/bf89c4b8-5740-11eb-be4c-48b02d05afd5/roslaunch-bfft-agx-1-13831.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch
+[1mstarted roslaunch server http://bfft-agx-1:36209/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /can_to_topic/base_id_adma: 100
+ * /can_to_topic/path_to_adma_dbc_file: /SSD_512/Docs_SSD...
+ * /can_to_topic/path_to_sensor_dbc_file: /SSD_512/Docs_SSD...
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+
+NODES
+  /
+    CAN_node (socketcan_bridge/socketcan_to_topic_node)
+    can_to_topic (convert_can_data_to_topic/can_to_topic)
+
+auto-starting new master
+[1mprocess[master]: started with pid [13841][0m
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch http://localhost:11311
+[1msetting /run_id to bf89c4b8-5740-11eb-be4c-48b02d05afd5[0m
+[1mprocess[rosout-1]: started with pid [13852][0m
+started core service [/rosout]
+[1mprocess[CAN_node-2]: started with pid [13859][0m
+[1mprocess[can_to_topic-3]: started with pid [13860][0m
+[can_to_topic-3] killing on exit
+[CAN_node-2] killing on exit
+[rosout-1] killing on exit
+[master] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+Starting ROS Core and launch file for Data collection!
+Traceback (most recent call last):
+  File "/opt/ros/melodic/bin/rosbag", line 35, in <module>
+    rosbag.rosbagmain()
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosbag/rosbag_main.py", line 1024, in rosbagmain
+    cmds[cmd](argv[2:])
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosbag/rosbag_main.py", line 159, in record_cmd
+    process.wait()
+  File "/usr/lib/python2.7/subprocess.py", line 1099, in wait
+    pid, sts = _eintr_retry_call(os.waitpid, self.pid, 0)
+  File "/usr/lib/python2.7/subprocess.py", line 125, in _eintr_retry_call
+    return func(*args)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosbag/rosbag_main.py", line 153, in <lambda>
+    lambda signum, frame: _send_process_sigint(signum, frame, old_handler, process)
+  File "/opt/ros/melodic/lib/python2.7/dist-packages/rosbag/rosbag_main.py", line 78, in _send_process_sigint
+    old_handler(signum, frame)
+TypeError: 'int' object is not callable
+[0m[ INFO] [1610724778.578118999]: Successfully connected to can0.[0m
+[0m[ INFO] [1610724777.969960015]: Recording to '2021-01-15-16-32-57.bag'.[0m
+[0m[ INFO] [1610724777.973279831]: Subscribing to /rosout[0m
+[0m[ INFO] [1610724777.977762020]: Subscribing to /rosout_agg[0m
+[0m[ INFO] [1610724778.983911004]: Subscribing to /received_messages[0m
+[0m[ INFO] [1610724781.985550691]: Subscribing to /imu/gps_data[0m
+[0m[ INFO] [1610724781.993957515]: Subscribing to /imu/imu_data[0m
+[0m[ INFO] [1610724782.002752832]: Subscribing to /can/unknown_ids[0m
+... logging to /home/bfft-agx-1/.ros/log/3d6efb24-5745-11eb-ad04-48b02d05afd5/roslaunch-bfft-agx-1-15131.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch
+[1mstarted roslaunch server http://bfft-agx-1:45165/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /can_to_topic/base_id_adma: 100
+ * /can_to_topic/path_to_adma_dbc_file: /SSD_512/Docs_SSD...
+ * /can_to_topic/path_to_sensor_dbc_file: /SSD_512/Docs_SSD...
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+
+NODES
+  /
+    CAN_node (socketcan_bridge/socketcan_to_topic_node)
+    can_to_topic (convert_can_data_to_topic/can_to_topic)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch http://localhost:11311
+[1mprocess[CAN_node-1]: started with pid [15184][0m
+[1mprocess[can_to_topic-2]: started with pid [15186][0m
+[can_to_topic-2] killing on exit
+[CAN_node-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+Starting ROS Core and launch file for Data collection!
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2     AN3  AN4
+0  0.001  0.0135  0.0005  0.0
+     AN1     AN2     AN3  AN4
+0  0.001  0.0135  0.0005  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns][0m[ INFO] [1610724857.188423065]: Successfully connected to can0.[0m
+
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Error and Warning Bits identifier: 102
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+     AN1    AN2     AN3  AN4
+0  0.001  0.014  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+184 Analog Input data =        AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+      AN1     AN2    AN3  AN4
+0  0.0015  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+     AN1    AN2    AN3  AN4
+0  0.001  0.014  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0145  0.001  0.0
+Error and Warning Bits identifier: 102
+184 Analog Input data =        AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+      AN1     AN2     AN3  AN4
+0  0.0015  0.0135  0.0015  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+183 INS Expected Velocity Error and Tilt Error =     In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+   In_Stddev_VXF  In_Stddev_VYF  ...  In_Stddev_Pitch  In_Stddev_Yaw
+0           2.55           2.55  ...             2.55           2.55
+
+[1 rows x 6 columns]
+184 Analog Input data =       AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+     AN1     AN2    AN3  AN4
+0  0.001  0.0135  0.001  0.0
+Status Bits identifier: 101
+Error and Warning Bits identifier: 102
+... logging to /home/bfft-agx-1/.ros/log/3d6efb24-5745-11eb-ad04-48b02d05afd5/roslaunch-bfft-agx-1-15371.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch
+[1mstarted roslaunch server http://bfft-agx-1:46287/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /can_to_topic/base_id_adma: 100
+ * /can_to_topic/path_to_adma_dbc_file: /SSD_512/Docs_SSD...
+ * /can_to_topic/path_to_sensor_dbc_file: /SSD_512/Docs_SSD...
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+
+NODES
+  /
+    CAN_node (socketcan_bridge/socketcan_to_topic_node)
+    can_to_topic (convert_can_data_to_topic/can_to_topic)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch http://localhost:11311
+[1mprocess[CAN_node-1]: started with pid [15423][0m
+[1mprocess[can_to_topic-2]: started with pid [15424][0m
+[can_to_topic-2] killing on exit
+[CAN_node-1] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+Starting Recording of CSV File. Parameters need to be adjusted in launch file.
+[33m[ WARN] [1610726395.456579585]: Shutdown request received.[0m
+[33m[ WARN] [1610726395.456773158]: Reason given for shutdown: [user request][0m
+[33m[ WARN] [1610726395.460143306]: Shutdown request received.[0m
+[33m[ WARN] [1610726395.460334799]: Reason given for shutdown: [user request][0m
+[0m[ INFO] [1610725904.197504700]: Subscribing to /imu/gps_data[0m
+[0m[ INFO] [1610725904.200727483]: Recording to '2021-01-15-16-51-44.bag'.[0m
+[0m[ INFO] [1610725904.206146683]: Subscribing to /rosout[0m
+[0m[ INFO] [1610725904.212412755]: Subscribing to /adma_CAN_data[0m
+[0m[ INFO] [1610725904.217470824]: Subscribing to /rosout_agg[0m
+[0m[ INFO] [1610725904.222574334]: Subscribing to /received_messages[0m
+[0m[ INFO] [1610725904.227725494]: Subscribing to /clock[0m
+[0m[ INFO] [1610725904.232670311]: Subscribing to /imu/imu_data[0m
+[0m[ INFO] [1610725904.237564855]: Subscribing to /can/unknown_ids[0m
+[0m[ INFO] [1610724856.554030580]: Recording to '2021-01-15-16-34-16.bag'.[0m
+[0m[ INFO] [1610724856.556735079]: Subscribing to /rosout[0m
+[0m[ INFO] [1610724856.561702273]: Subscribing to /rosout_agg[0m
+[0m[ INFO] [1610724857.568289917]: Subscribing to /received_messages[0m
+[0m[ INFO] [1610724860.569157573]: Subscribing to /imu/gps_data[0m
+[0m[ INFO] [1610724860.575806675]: Subscribing to /imu/imu_data[0m
+[0m[ INFO] [1610724860.580649800]: Subscribing to /can/unknown_ids[0m
+[0m[ INFO] [1610724865.567939776]: Subscribing to /adma_CAN_data[0m
+[0m[ INFO] [1610724865.574804692]: Subscribing to /clock[0m
+Bash Script ROS END
+startROS.sh: 17: startROS.sh: Syntax error: Unterminated quoted string
+Starting ROS Core and launch file for Data collection!
+[33m[ WARN] [1610726498.555281967]: Shutdown request received.[0m
+[33m[ WARN] [1610726498.555521334]: Reason given for shutdown: [user request][0m
+[0m[ INFO] [1610726464.317404897]: Subscribing to /rosout[0m
+[0m[ INFO] [1610726464.319465053]: Recording to '2021-01-15-17-01-04.bag'.[0m
+[0m[ INFO] [1610726464.324056644]: Subscribing to /rosout_agg[0m
+[0m[ INFO] [1610726465.329779976]: Subscribing to /received_messages[0m
+[0m[ INFO] [1610726468.331324071]: Subscribing to /imu/gps_data[0m
+[0m[ INFO] [1610726468.342313738]: Subscribing to /imu/imu_data[0m
+[0m[ INFO] [1610726468.349546335]: Subscribing to /can/unknown_ids[0m
+Starting ROS Core and launch file for Data collection!
+[33m[ WARN] [1610726516.830479919]: Shutdown request received.[0m
+[33m[ WARN] [1610726516.830629395]: Reason given for shutdown: [[/CAN_node] Reason: new node registered with same name][0m
+[0m[ INFO] [1610726464.915322893]: Successfully connected to can0.[0m
+shutdown request: [/can_to_topic] Reason: new node registered with same name
+... logging to /home/bfft-agx-1/.ros/log/3d6efb24-5745-11eb-ad04-48b02d05afd5/roslaunch-bfft-agx-1-18332.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch
+[1mstarted roslaunch server http://bfft-agx-1:45953/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /can_to_topic/base_id_adma: 100
+ * /can_to_topic/path_to_adma_dbc_file: /SSD_512/Docs_SSD...
+ * /can_to_topic/path_to_sensor_dbc_file: /SSD_512/Docs_SSD...
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+
+NODES
+  /
+    CAN_node (socketcan_bridge/socketcan_to_topic_node)
+    can_to_topic (convert_can_data_to_topic/can_to_topic)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch http://localhost:11311
+[1mprocess[CAN_node-1]: started with pid [18385][0m
+[1mprocess[can_to_topic-2]: started with pid [18386][0m
+[1m[CAN_node-1] process has finished cleanly
+log file: /home/bfft-agx-1/.ros/log/3d6efb24-5745-11eb-ad04-48b02d05afd5/CAN_node-1*.log[0m
+[1m[can_to_topic-2] process has finished cleanly
+log file: /home/bfft-agx-1/.ros/log/3d6efb24-5745-11eb-ad04-48b02d05afd5/can_to_topic-2*.log[0m
+all processes on machine have died, roslaunch will exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+Bash Script ROS END
+[0m[ INFO] [1610726516.836717030]: Successfully connected to can0.[0m
+... logging to /home/bfft-agx-1/.ros/log/3d6efb24-5745-11eb-ad04-48b02d05afd5/roslaunch-bfft-agx-1-18464.log
+Checking log directory for disk usage. This may take a while.
+Press Ctrl-C to interrupt
+Done checking log file disk usage. Usage is <1GB.
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch
+[1mstarted roslaunch server http://bfft-agx-1:34977/[0m
+
+SUMMARY
+========
+
+PARAMETERS
+ * /can_to_topic/base_id_adma: 100
+ * /can_to_topic/path_to_adma_dbc_file: /SSD_512/Docs_SSD...
+ * /can_to_topic/path_to_sensor_dbc_file: /SSD_512/Docs_SSD...
+ * /rosdistro: melodic
+ * /rosversion: 1.14.10
+
+NODES
+  /
+    CAN_node (socketcan_bridge/socketcan_to_topic_node)
+    can_to_topic (convert_can_data_to_topic/can_to_topic)
+
+[1mROS_MASTER_URI=http://localhost:11311[0m
+]2;/home/bfft-agx-1/catkin_ws/src/bfft_CAN_msgs_to_ROS_topic/launch/Start_Data_Collection.launch http://localhost:11311
+[1mprocess[CAN_node-1]: started with pid [18524][0m
+[1mprocess[can_to_topic-2]: started with pid [18525][0m
+[CAN_node-1] killing on exit
+[can_to_topic-2] killing on exit
+shutting down processing monitor...
+... shutting down processing monitor complete
+[1mdone[0m
+[33m[ WARN] [1610726554.237251874]: Shutdown request received.[0m
+[33m[ WARN] [1610726554.237426343]: Reason given for shutdown: [user request][0m
+[0m[ INFO] [1610726516.225261932]: Recording to '2021-01-15-17-01-56.bag'.[0m
+[0m[ INFO] [1610726516.231315806]: Subscribing to /imu/gps_data[0m
+[0m[ INFO] [1610726516.236415540]: Subscribing to /rosout[0m
+[0m[ INFO] [1610726516.241083261]: Subscribing to /rosout_agg[0m
+[0m[ INFO] [1610726516.245398044]: Subscribing to /received_messages[0m
+[0m[ INFO] [1610726516.249563062]: Subscribing to /imu/imu_data[0m
+[0m[ INFO] [1610726516.253731697]: Subscribing to /can/unknown_ids[0m
+Bash Script ROS END
