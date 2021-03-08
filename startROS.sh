@@ -4,7 +4,7 @@
 
 echo 'Starting ROS Core and launch file for Data collection!'
 
-roslaunch --pid=/tmp/myroslaunch.pid convert_can_data_to_topic Start_Data_Collection.launch &
+roslaunch --pid=/tmp/myroslaunch.pid bfft_CAN_msgs_to_ROS_topic Start_Data_Collection.launch &
 P1=$!
 cd /SSD_512/bagfiles && rosbag record -a &
 P2=$!
