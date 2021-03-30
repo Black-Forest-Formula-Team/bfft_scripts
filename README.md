@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Black Forest Formula Team - Convert ROSBAGs to CSV files (one per ROS topic)
+# Black Forest Formula Team - Convenience Scripts for ROS system control (Windows Remote or on AGX Ubuntu directly)
 The scripts in this repository can be used to easily (remote) control our autonomous system built with ROS without the need to directly touch launch files.
 
 This code is created and maintained by the [Black Forest Formula Team](https://blackforestformula.hs-offenburg.de/) at [University of Applied Sciences Offenburg](https://www.hs-offenburg.de/). As this is a subrepository of the overall system you will find more information about the system in the main repository and its [Wiki](https://github.com/Black-Forest-Formula-Team/bfft_formula-student_driverless/wiki).
