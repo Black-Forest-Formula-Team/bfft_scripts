@@ -12,6 +12,11 @@ The scripts in this repository can be used to easily (remote) control our autono
 This code is created and maintained by the [Black Forest Formula Team](https://blackforestformula.hs-offenburg.de/) at [University of Applied Sciences Offenburg](https://www.hs-offenburg.de/). As this is a subrepository of the overall system you will find more information about the system in the main repository and its [Wiki](https://github.com/Black-Forest-Formula-Team/bfft_formula-student_driverless/wiki).
 
 ____________________
+## Getting started
+
+Have a look at the commands here: [LINK](https://github.com/Black-Forest-Formula-Team/bfft_formula-student_driverless/wiki/05.0-Automation-of-ROS-startup-using-Bash-Scripts)
+
+____________________
 ## Release History
 * 0.0.1
     * Initial setup, work in progress
